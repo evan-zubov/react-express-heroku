@@ -8,8 +8,8 @@
     "node": "6.9.1"
   },
   "dependencies": {
-    "concurrently": "^3.1.0",
-    "rimraf": "^2.5.4"
+    "concurrently": "^3.5.1",
+    "rimraf": "^2.6.2"
   },
   "scripts": {
     "build": "concurrently \"cd client && npm run build\" \"cd server && npm run build\"",
