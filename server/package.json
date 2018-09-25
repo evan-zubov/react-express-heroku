@@ -14,7 +14,7 @@
   },
   "devDependencies": {
     "babel-register": "^6.26.0",
-    "nodemon": "^1.17.5"
+    "nodemon": "^1.18.4"
   },
   "scripts": {
     "build": "babel . --ignore node_modules,build --out-dir build",
